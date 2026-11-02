@@ -1,0 +1,33 @@
+Contrôles de préparation · 31/10/2026
+
+ordinateur [(19944689390046489, 'ordinateur', 'FranceTerme'), (33672197609084989, 'ordinateur', 'Wiktionnaire'), (50958143471821072, 'ordinatrice', 'Wiktionnaire')] 0.0 s
+internet [(24499983982294117, 'internet', 'Wiktionnaire'), (30116997452158899, 'internet', 'FranceTerme'), (43382256357789226, 'Internet', 'Wiktionnaire')] 0.0 s
+smartphone [(1366084498793710, 'smartphone', 'Wiktionnaire'), (35281549409906369, 'smartphoner', 'Wiktionnaire'), (45269782691867577, 'mobile multifonction', 'FranceTerme')] 0.0 s
+cybersecurite [(33172918823285188, 'cybersécurité', 'Wiktionnaire'), (37125523190650061, 'cybersécurité', 'FranceTerme')] 0.0 s
+intelligence artificielle [(58069190960335749, 'intelligence artificielle', 'FranceTerme'), (64660754666181612, 'intelligence artificielle', 'Wiktionnaire')] 0.0 s
+ecrivaient [(25376963961572401, 'écrire', 'Wiktionnaire')] 0.0 s
+{
+  "checkedArticles": 541053,
+  "checkedReferences": 643631,
+  "counts": {
+    "frenchRecords": 2112393,
+    "lexicalRecords": 564053,
+    "inflectedRecords": 1547949,
+    "senses": 714505,
+    "unresolvedForms": 3744,
+    "entries": 541053,
+    "sources": {
+      "FranceTerme": 8509,
+      "Wiktionnaire": 532544
+    },
+    "aliases": 5401141,
+    "franceTermeWithoutDefinition": 731
+  },
+  "ftsResults": 201,
+  "integrity": "ok"
+}
+
+Analyse syntaxique tree-sitter : 14 fichiers Dart/Kotlin valides.
+Python py_compile : scripts de construction et contrôle valides.
+Requêtes communes exécutées sur la vue SQL du moteur Android : mot, préfixe, définitions et catégorie.
+Flutter analyze, flutter test, build APK et essai Android non exécutés : SDK Flutter absent de cet environnement. Les tests sont fournis pour le poste utilisateur.

@@ -1,0 +1,22 @@
+{
+  "articles": 72,
+  "geography": 40,
+  "history": 32,
+  "regions": 14,
+  "sources": 64,
+  "images": 10,
+  "timeline": 59,
+  "glossary": 90,
+  "dataBytes": 715398,
+  "imageBytes": 5388467,
+  "sha256": "f13051ee0abdb88c27faf276552ecefb77d56948f32031fcab82770a1c6c85d5",
+  "validation": "OK — structure, renvois, carte, assets et crédits"
+}
+
+Arbres syntaxiques Dart/Kotlin : 16 fichiers valides.
+Scripts Python : construction et contrôle exécutés.
+Inspection des 10 images : sujets et légendes vérifiés sur une planche de contrôle.
+Carte : géométries inspectées et appartenance des points de Tambacounda, Diourbel et de la bande gambienne vérifiée.
+Archive : seuls les fichiers ajoutés ou modifiés depuis 2.1.0 sont livrés.
+
+Limites : Flutter analyze, Flutter test, compilation APK et essai sur téléphone non exécutés ici (SDK Flutter absent). La vérification syntaxique ne remplace pas ces contrôles.

@@ -1,0 +1,961 @@
+[
+  {
+    "group": "Repères",
+    "title": "Avant-propos",
+    "printed": 9,
+    "page": 11,
+    "end": 13
+  },
+  {
+    "group": "Repères",
+    "title": "Domaines de l’étude de la langue",
+    "printed": 12,
+    "page": 14,
+    "end": 16
+  },
+  {
+    "group": "Repères",
+    "title": "Variations de la langue",
+    "printed": 15,
+    "page": 17,
+    "end": 23
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Sons et phonèmes",
+    "printed": 22,
+    "page": 24,
+    "end": 25
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Voyelles",
+    "printed": 24,
+    "page": 26,
+    "end": 26
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Consonnes",
+    "printed": 25,
+    "page": 27,
+    "end": 29
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Système des phonèmes",
+    "printed": 28,
+    "page": 30,
+    "end": 30
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Syllabe, liaison, élision",
+    "printed": 29,
+    "page": 31,
+    "end": 33
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Fonctionnement de l’orthographe",
+    "printed": 32,
+    "page": 34,
+    "end": 36
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Alphabet et signes auxiliaires",
+    "printed": 35,
+    "page": 37,
+    "end": 38
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Graphèmes",
+    "printed": 37,
+    "page": 39,
+    "end": 40
+  },
+  {
+    "group": "Oral et écrit",
+    "title": "Ponctuation",
+    "printed": 39,
+    "page": 41,
+    "end": 49
+  },
+  {
+    "group": "Lexique",
+    "title": "Mot et unités du lexique",
+    "printed": 48,
+    "page": 50,
+    "end": 51
+  },
+  {
+    "group": "Lexique",
+    "title": "Dérivation, préfixes et suffixes",
+    "printed": 50,
+    "page": 52,
+    "end": 56
+  },
+  {
+    "group": "Lexique",
+    "title": "Composition",
+    "printed": 55,
+    "page": 57,
+    "end": 60
+  },
+  {
+    "group": "Lexique",
+    "title": "Conversion et formation des mots",
+    "printed": 59,
+    "page": 61,
+    "end": 61
+  },
+  {
+    "group": "Lexique",
+    "title": "Emprunts",
+    "printed": 60,
+    "page": 62,
+    "end": 64
+  },
+  {
+    "group": "Lexique",
+    "title": "Familles de mots et champs lexicaux",
+    "printed": 63,
+    "page": 65,
+    "end": 66
+  },
+  {
+    "group": "Lexique",
+    "title": "Homonymie, homophonie et paronymie",
+    "printed": 65,
+    "page": 67,
+    "end": 68
+  },
+  {
+    "group": "Lexique",
+    "title": "Synonymie, antonymie et relations de sens",
+    "printed": 67,
+    "page": 69,
+    "end": 71
+  },
+  {
+    "group": "Lexique",
+    "title": "Polysémie",
+    "printed": 70,
+    "page": 72,
+    "end": 75
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Présentation des classes grammaticales",
+    "printed": 74,
+    "page": 76,
+    "end": 77
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Nom et groupe nominal",
+    "printed": 76,
+    "page": 78,
+    "end": 78
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Nom commun et nom propre",
+    "printed": 77,
+    "page": 79,
+    "end": 80
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Genre du nom",
+    "printed": 79,
+    "page": 81,
+    "end": 84
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Nombre du nom",
+    "printed": 83,
+    "page": 85,
+    "end": 90
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Déterminants",
+    "printed": 89,
+    "page": 91,
+    "end": 92
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Articles définis, indéfinis, partitifs",
+    "printed": 91,
+    "page": 93,
+    "end": 95
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Déterminants démonstratifs et possessifs",
+    "printed": 94,
+    "page": 96,
+    "end": 98
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Déterminants numéraux et indéfinis",
+    "printed": 97,
+    "page": 99,
+    "end": 102
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Déterminants interrogatifs, exclamatifs et relatifs",
+    "printed": 101,
+    "page": 103,
+    "end": 103
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Absence de déterminant",
+    "printed": 102,
+    "page": 104,
+    "end": 104
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Adjectif qualificatif",
+    "printed": 103,
+    "page": 105,
+    "end": 107
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Genre de l’adjectif",
+    "printed": 106,
+    "page": 108,
+    "end": 111
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Nombre de l’adjectif",
+    "printed": 110,
+    "page": 112,
+    "end": 113
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Accord de l’adjectif",
+    "printed": 112,
+    "page": 114,
+    "end": 115
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Place de l’adjectif",
+    "printed": 114,
+    "page": 116,
+    "end": 117
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Degrés de l’adjectif",
+    "printed": 116,
+    "page": 118,
+    "end": 121
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Pronom",
+    "printed": 120,
+    "page": 122,
+    "end": 124
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Pronoms personnels",
+    "printed": 123,
+    "page": 125,
+    "end": 129
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Pronoms possessifs",
+    "printed": 128,
+    "page": 130,
+    "end": 130
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Pronoms démonstratifs",
+    "printed": 129,
+    "page": 131,
+    "end": 133
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Pronoms indéfinis",
+    "printed": 132,
+    "page": 134,
+    "end": 136
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Pronoms interrogatifs",
+    "printed": 135,
+    "page": 137,
+    "end": 138
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Pronoms relatifs",
+    "printed": 137,
+    "page": 139,
+    "end": 142
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Verbe et identification",
+    "printed": 141,
+    "page": 143,
+    "end": 143
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Verbes transitifs et intransitifs",
+    "printed": 142,
+    "page": 144,
+    "end": 146
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Voix, modes et temps",
+    "printed": 145,
+    "page": 147,
+    "end": 151
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Conjugaisons",
+    "printed": 150,
+    "page": 152,
+    "end": 157
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Emploi des temps et des modes",
+    "printed": 156,
+    "page": 158,
+    "end": 183
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Accord du participe passé",
+    "printed": 182,
+    "page": 184,
+    "end": 189
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Adverbe",
+    "printed": 188,
+    "page": 190,
+    "end": 190
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Morphologie de l’adverbe",
+    "printed": 189,
+    "page": 191,
+    "end": 192
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Syntaxe de l’adverbe",
+    "printed": 191,
+    "page": 193,
+    "end": 195
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Sens des adverbes",
+    "printed": 194,
+    "page": 196,
+    "end": 199
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Prépositions",
+    "printed": 198,
+    "page": 200,
+    "end": 201
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Emploi des prépositions",
+    "printed": 200,
+    "page": 202,
+    "end": 203
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Répétition des prépositions",
+    "printed": 202,
+    "page": 204,
+    "end": 204
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Conjonctions",
+    "printed": 203,
+    "page": 205,
+    "end": 205
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Coordination",
+    "printed": 204,
+    "page": 206,
+    "end": 208
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Subordination",
+    "printed": 207,
+    "page": 209,
+    "end": 211
+  },
+  {
+    "group": "Classes de mots",
+    "title": "Interjection",
+    "printed": 210,
+    "page": 212,
+    "end": 215
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Phrase verbale et non verbale",
+    "printed": 214,
+    "page": 216,
+    "end": 217
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Phrase minimale et phrase étendue",
+    "printed": 216,
+    "page": 218,
+    "end": 220
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Phrase non verbale",
+    "printed": 219,
+    "page": 221,
+    "end": 222
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Fonctions grammaticales",
+    "printed": 221,
+    "page": 223,
+    "end": 228
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Sujet",
+    "printed": 227,
+    "page": 229,
+    "end": 231
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Prédicat et compléments liés au verbe",
+    "printed": 230,
+    "page": 232,
+    "end": 240
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Compléments circonstanciels",
+    "printed": 239,
+    "page": 241,
+    "end": 242
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Épithète, complément du nom, apposition",
+    "printed": 241,
+    "page": 243,
+    "end": 249
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Compléments de l’adjectif et de l’adverbe",
+    "printed": 248,
+    "page": 250,
+    "end": 252
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Complément d’agent et apostrophe",
+    "printed": 251,
+    "page": 253,
+    "end": 255
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Types de phrases",
+    "printed": 254,
+    "page": 256,
+    "end": 256
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Déclaration et interrogation",
+    "printed": 255,
+    "page": 257,
+    "end": 260
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Injonction",
+    "printed": 259,
+    "page": 261,
+    "end": 261
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Exclamation",
+    "printed": 260,
+    "page": 262,
+    "end": 263
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Formes de phrases",
+    "printed": 262,
+    "page": 264,
+    "end": 264
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Affirmation et négation",
+    "printed": 263,
+    "page": 265,
+    "end": 267
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Passif",
+    "printed": 266,
+    "page": 268,
+    "end": 268
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Forme impersonnelle",
+    "printed": 267,
+    "page": 269,
+    "end": 270
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Emphase",
+    "printed": 269,
+    "page": 271,
+    "end": 273
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Présentatifs",
+    "printed": 272,
+    "page": 274,
+    "end": 274
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Chaînes d’accord",
+    "printed": 273,
+    "page": 275,
+    "end": 276
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Accord sujet-verbe",
+    "printed": 275,
+    "page": 277,
+    "end": 278
+  },
+  {
+    "group": "Phrase simple",
+    "title": "Accord de l’attribut et dans le groupe nominal",
+    "printed": 277,
+    "page": 279,
+    "end": 281
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Phrase et proposition",
+    "printed": 280,
+    "page": 282,
+    "end": 283
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Juxtaposition, coordination et subordination",
+    "printed": 282,
+    "page": 284,
+    "end": 284
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Propositions juxtaposées",
+    "printed": 283,
+    "page": 285,
+    "end": 285
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Propositions coordonnées",
+    "printed": 284,
+    "page": 286,
+    "end": 286
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Propositions subordonnées",
+    "printed": 285,
+    "page": 287,
+    "end": 290
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Proposition relative",
+    "printed": 289,
+    "page": 291,
+    "end": 291
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Relatives adjectives",
+    "printed": 290,
+    "page": 292,
+    "end": 294
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Relatives substantives",
+    "printed": 293,
+    "page": 295,
+    "end": 296
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Proposition complétive",
+    "printed": 295,
+    "page": 297,
+    "end": 297
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Complétive introduite par que",
+    "printed": 296,
+    "page": 298,
+    "end": 300
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Interrogation indirecte",
+    "printed": 299,
+    "page": 301,
+    "end": 303
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Infinitif et proposition infinitive",
+    "printed": 302,
+    "page": 304,
+    "end": 305
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Subordonnées circonstancielles",
+    "printed": 304,
+    "page": 306,
+    "end": 306
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Temps",
+    "printed": 305,
+    "page": 307,
+    "end": 308
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Cause et but",
+    "printed": 307,
+    "page": 309,
+    "end": 309
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Opposition et concession",
+    "printed": 308,
+    "page": 310,
+    "end": 310
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Condition",
+    "printed": 309,
+    "page": 311,
+    "end": 311
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Conséquence et comparaison",
+    "printed": 310,
+    "page": 312,
+    "end": 313
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Proposition participiale",
+    "printed": 312,
+    "page": 314,
+    "end": 314
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Concordance des temps",
+    "printed": 313,
+    "page": 315,
+    "end": 315
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Concordance à l’indicatif",
+    "printed": 314,
+    "page": 316,
+    "end": 316
+  },
+  {
+    "group": "Phrase complexe",
+    "title": "Temps au subjonctif",
+    "printed": 315,
+    "page": 317,
+    "end": 319
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Cohérence textuelle",
+    "printed": 318,
+    "page": 320,
+    "end": 321
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Unité sémantique",
+    "printed": 320,
+    "page": 322,
+    "end": 322
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Référence",
+    "printed": 321,
+    "page": 323,
+    "end": 325
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Cohésion et reprises",
+    "printed": 324,
+    "page": 326,
+    "end": 331
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Ellipse",
+    "printed": 330,
+    "page": 332,
+    "end": 332
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Connecteurs textuels",
+    "printed": 331,
+    "page": 333,
+    "end": 339
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Progression textuelle : thème et prédicat",
+    "printed": 338,
+    "page": 340,
+    "end": 340
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Progressions thématiques",
+    "printed": 339,
+    "page": 341,
+    "end": 343
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Combinaison et rupture thématiques",
+    "printed": 342,
+    "page": 344,
+    "end": 345
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Progression et types de textes",
+    "printed": 344,
+    "page": 346,
+    "end": 347
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Typologie textuelle",
+    "printed": 346,
+    "page": 348,
+    "end": 348
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Visées communicatives",
+    "printed": 347,
+    "page": 349,
+    "end": 356
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Texte narratif",
+    "printed": 355,
+    "page": 357,
+    "end": 361
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Texte descriptif",
+    "printed": 360,
+    "page": 362,
+    "end": 366
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Argumentation",
+    "printed": 365,
+    "page": 367,
+    "end": 372
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Discours et énonciation",
+    "printed": 371,
+    "page": 373,
+    "end": 376
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Attitudes énonciatives",
+    "printed": 375,
+    "page": 377,
+    "end": 381
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Discours direct et indirect",
+    "printed": 380,
+    "page": 382,
+    "end": 386
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Versification",
+    "printed": 385,
+    "page": 387,
+    "end": 387
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Compte des syllabes",
+    "printed": 386,
+    "page": 388,
+    "end": 388
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Mètre et structure du vers",
+    "printed": 387,
+    "page": 389,
+    "end": 389
+  },
+  {
+    "group": "Texte et discours",
+    "title": "Rime",
+    "printed": 388,
+    "page": 390,
+    "end": 393
+  },
+  {
+    "group": "Annexes",
+    "title": "Alphabet phonétique international",
+    "printed": 392,
+    "page": 394,
+    "end": 394
+  },
+  {
+    "group": "Annexes",
+    "title": "Rectifications orthographiques de 1990",
+    "printed": 393,
+    "page": 395,
+    "end": 397
+  },
+  {
+    "group": "Annexes",
+    "title": "Féminisation des noms de métier",
+    "printed": 396,
+    "page": 398,
+    "end": 401
+  },
+  {
+    "group": "Annexes",
+    "title": "Tableaux de conjugaison",
+    "printed": 400,
+    "page": 402,
+    "end": 430
+  },
+  {
+    "group": "Annexes",
+    "title": "Verbes fréquents et défectifs",
+    "printed": 429,
+    "page": 431,
+    "end": 435
+  },
+  {
+    "group": "Annexes",
+    "title": "Homophones grammaticaux",
+    "printed": 434,
+    "page": 436,
+    "end": 449
+  },
+  {
+    "group": "Annexes",
+    "title": "Glossaire",
+    "printed": 448,
+    "page": 450,
+    "end": 455
+  },
+  {
+    "group": "Annexes",
+    "title": "Index alphabétique",
+    "printed": 454,
+    "page": 456,
+    "end": 468
+  }
+]

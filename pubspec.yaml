@@ -1,0 +1,24 @@
+name: enseignant
+description: Compagnon hors connexion de l’enseignant du primaire — TDG.
+publish_to: none
+version: 2.2.0+6
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dictionary/
+    - assets/dictionary/licenses/
+    - assets/documentation/
+    - assets/documentation/images/
+    - assets/data/
+    - assets/images/
+    - assets/grevisse/index.json
+    - assets/grevisse/chapters.json
+    - assets/grevisse/pages/
