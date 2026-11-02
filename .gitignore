@@ -50,4 +50,4 @@ lib/l10n/generated/
 releases/
 *.tar.gz
 *.zip
-modern.sqlite #BD de 1.1Go
+*.sqlite #BD de 1.1Go
