@@ -50,4 +50,5 @@ lib/l10n/generated/
 releases/
 *.tar.gz
 *.zip
-*.sqlite #BD de 1.1Go
+# Bases SQLite locales (dont assets/dictionary/modern.sqlite, ~1,1 Go)
+*.sqlite
